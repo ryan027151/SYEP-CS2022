@@ -9,7 +9,7 @@ Download and extract .7z file with WINRAR or 7Zip and run the .exe inside the "d
 Most reliable with wikipedia image links. (copy image address)
 Expand the image by clicking on it and then copy the address for best recongition.
 
-pythonProject (Typing Test)
+typing-speed Test
 
 Download and extract .7z file with WINRAR or 7ZIP and run the .exe inside the "dist" folder.
 The source code is found inside "main.py".
