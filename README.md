@@ -9,12 +9,15 @@ Download and extract .7z file with WINRAR or 7Zip and run the .exe inside the "d
 Most reliable with wikipedia image links. (copy image address)
 Expand the image by clicking on it and then copy the address for best recongition.
 
-typing-speed Test
+(Typing-Speed Test)
 
 Download and extract .7z file with WINRAR or 7ZIP and run the .exe inside the "dist" folder.
 The source code is found inside "main.py".
 To start the typing test you must click inside the box. Once you click the timer starts.
 
+(Water Reminder)
+Download and extract .7z file with WINRAR or 7ZIP and run the water.py file.
+The program will first ask the user several question and start the reminding procedure throughout the day; Keep the program on.
 ## References 
 
  - [Color Detection Source Code](https://data-flair.training/blogs/project-in-python-colour-detection/)
