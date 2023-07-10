@@ -26,4 +26,9 @@ The program will first ask the user several question and start the reminding pro
 - Libraries used for Typing Test
     - [Pandas](https://pandas.pydata.org/)
     - [Tkinter](https://docs.python.org/3/library/tkinter.html)
-    
+- Libraries used for Water Reminder
+    - [Tkinter](https://docs.python.org/3/library/tkinter.html)
+    - [Datetime](https://docs.python.org/3/library/datetime.html)
+    - [time](https://docs.python.org/3/library/time.html)
+    - [plyer](https://plyer.readthedocs.io/en/latest/)
+    - [random](https://docs.python.org/3/library/random.html)
