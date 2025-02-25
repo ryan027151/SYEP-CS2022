@@ -1,4 +1,4 @@
-# SYEP-CS 💻
+# SYEP-CS-2022 💻
 List of projects created during Summer Design Insitute at SI Tech HS.\
 Summer 2022
 
